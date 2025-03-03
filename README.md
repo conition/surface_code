@@ -8,6 +8,6 @@ pip install stim
 ```
 
 ## TODO
-- [] Add error decoding using Pymatching
-- [] Find code threshold under qubit-level depolarizing noise
-- [] Add more realistic circuit-level noise
+- [ ] Add error decoding using Pymatching
+- [ ] Find code threshold under qubit-level depolarizing noise
+- [ ] Add more realistic circuit-level noise
