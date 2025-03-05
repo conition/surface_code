@@ -8,6 +8,7 @@ pip install stim
 ```
 
 ## TODO
+- [ ] Move circuit building functions to class to eliminate global variables and make experiments easier
 - [ ] Add error decoding using Pymatching
 - [ ] Find code threshold under qubit-level depolarizing noise
 - [ ] Add more realistic circuit-level noise
